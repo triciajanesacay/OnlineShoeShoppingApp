@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\OnlineShoppingApp.DL\bin\Debug\netcoreapp3.1\OnlineShoeShoppingApp.DL.deps.json
+C:\Users\Admin\source\repos\OnlineShoppingApp.DL\bin\Debug\netcoreapp3.1\OnlineShoeShoppingApp.DL.dll
+C:\Users\Admin\source\repos\OnlineShoppingApp.DL\bin\Debug\netcoreapp3.1\OnlineShoeShoppingApp.DL.pdb
+C:\Users\Admin\source\repos\OnlineShoppingApp.DL\obj\Debug\netcoreapp3.1\OnlineShoeShoppingApp.DL.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\OnlineShoppingApp.DL\obj\Debug\netcoreapp3.1\OnlineShoeShoppingApp.DL.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\OnlineShoppingApp.DL\obj\Debug\netcoreapp3.1\OnlineShoeShoppingApp.DL.AssemblyInfo.cs
+C:\Users\Admin\source\repos\OnlineShoppingApp.DL\obj\Debug\netcoreapp3.1\OnlineShoeShoppingApp.DL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OnlineShoppingApp.DL\obj\Debug\netcoreapp3.1\OnlineShoeShoppingApp.DL.dll
+C:\Users\Admin\source\repos\OnlineShoppingApp.DL\obj\Debug\netcoreapp3.1\OnlineShoeShoppingApp.DL.pdb
